@@ -4,7 +4,7 @@
 
 # 🎮 Tic Tac Toe (C++ Console Game)
 
-This is a simple console-based Tic Tac Toe game developed in C++. It offers both **single-player** (against AI) and **two-player** game modes. The game also includes a clear user interface, rules display, and input validation for a smooth gameplay experience.123
+This is a simple console-based Tic Tac Toe game developed in C++. It offers both **single-player** (against AI) and **two-player** game modes. The game also includes a clear user interface, rules display, and input validation for a smooth gameplay experience.12
 
 ---
 
