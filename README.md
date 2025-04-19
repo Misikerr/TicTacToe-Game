@@ -69,10 +69,6 @@ When you run the game, you'll see a menu like this:
                      ***********************
 This board updates dynamically as players make their moves.
 
-
-
-📦 How to Compile and Run
-Save the code in a file named tic_tac_toe.cpp
 ---
 
 ## 🚀 Getting Started
