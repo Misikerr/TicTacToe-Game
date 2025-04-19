@@ -38,6 +38,42 @@ This is a simple console-based Tic Tac Toe game developed in C++. It offers both
 - If all cells are filled without a winner, the game ends in a **draw**.
 
 ---
+## 📋 Sample Menu Display
+When you run the game, you'll see a menu like this:
+
+                     _______________________
+                    |                       |
+                    |      TIC TAC TOE      |
+                    |_______________________|
+                    |1. Start New Game      |
+                    |2. Single player       |
+                    |3. View Game Rules     |
+                    |4. Exit                |
+                    *************************
+                      Enter your choice:
+## 🔳 Sample Game Board (toeBox)
+                     _______________________
+                    |                       |
+                    |      TIC TAC TOE      |
+                    |_______________________|
+                    |***********************|
+                    |*|     |      |      |*|
+                    |*|  1  |  2   |  3   |*|
+                    |*|_____|______|______|*|
+                    |*|     |      |      |*|
+                    |*|  4  |  5   |  6   |*|
+                    |*|_____|______|______|*|
+                    |*|     |      |      |*|
+                    |*|  7  |  8   |  9   |*|
+                    |*|     |      |      |*|
+                     ***********************
+This board updates dynamically as players make their moves.
+
+
+
+📦 How to Compile and Run
+Save the code in a file named tic_tac_toe.cpp
+---
 
 ## 🚀 Getting Started
 
